@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tag: abdelrahman404/Booster_CI_CD_Project:latest          
+          tags: abdelrahman404/Booster_CI_CD_Project:latest          
